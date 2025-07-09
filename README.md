@@ -2,10 +2,10 @@
 #### Developer: Derek Fintel
 #### Contact: s542635@youremail; 555-abc-1234
 
-### Project Intro
+## Project Intro
 This project utilizes matplotlib packages to construct code that satifies the prompted questions (Steps 1 thru 4). We perform a number of functions through the steps and plot the results with bar, line, and scatter plots. The results are rich visualizations that help the user understand the processing of the data through our coded functions. 
 
-### Preliminary Project Setup Steps
+## Preliminary Project Setup Steps
 ### 1. Initialize
 ```
 1. Click "New Repository"
